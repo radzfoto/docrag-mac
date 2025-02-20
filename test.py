@@ -9,6 +9,7 @@
 # 7. MongoDB Server (Shell Script): Manages the MongoDB document store.
 
 import os
+import pathlib
 import json
 import subprocess
 
